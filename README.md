@@ -17,20 +17,18 @@ Flow Chart
    <li>Buat Program Penggajian <b>https://github.com/akhmadaan/Ptrogram-python/blob/master/perhitungan/gaji.py</b> </li>
    <li>Buat Program Penilaian <b>https://github.com/akhmadaan/Ptrogram-python/blob/master/perhitungan/nilai.py</b></li>
    <li>Buat Program Pembayaran Ecampus <b>https://github.com/akhmadaan/Ptrogram-python/blob/master/perhitungan/ecampus.py</b></li>
-   <li>SETELAH ITU KITA BUAT MASTER UNTUK MENJALANKAN PROGRAM YANG DI ATAS SEMUA. Untuk Shortcode silahkan anda akses link di bawah ini <b>https://github.com/akhmadaan/Ptrogram-python/blob/master/login.py</b></li>
+   <li>SETELAH ITU KITA BUAT MASTER UNTUK MENJALANKAN PROGRAM YANG DI ATAS SEMUA. Untuk Shortcode silahkan anda akses link di samping  <b>https://github.com/akhmadaan/Ptrogram-python/blob/master/login.py</b></li>
 <p align="center">
-   
+
 </ol>
 <hr/>
 
-## Note:
-Mengaktivkan NoActionBar pada AndroidManifest.xml<br>
-```"android:theme="@style/AppTheme.NoActionBar"```<br><p>
-membuat permission Internet pada AndroidManifest.xml<br>
-```<uses-permission android:name="android.permission.INTERNET" />```
-<hr/>
+>SETELAH KALIAN MEMBUAT PROGRAM DIATAS MAKA JIKA DI RUN GAMBARANYA SEPERTI
+<p align="center">
+<img src="https://github.com/akhmadaan/Ptrogram-python/blob/master/jpg/login%20menu.png" width="450" height="300" />
 
-## Demo Aplikasi
-<img src="https://github.com/sasmitoh/web_view-android_studio/blob/master/demo.jpg" width="250" height="350" />
 
-### Klik Untuk Tutorial Lebih Lengkapnya [--> ](https://github.com/sasmitoh/web_view-android_studio/wiki)
+
+
+## SEKIAN DARI SAYA TERIMAKASIH TELAH MENGUNJUNGI
+
