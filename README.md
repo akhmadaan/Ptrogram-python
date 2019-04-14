@@ -17,7 +17,8 @@ Flow Chart
    <li>Buat Program Penggajian <b>https://github.com/akhmadaan/Ptrogram-python/blob/master/perhitungan/gaji.py</b> </li>
    <li>Buat Program Penilaian <b>https://github.com/akhmadaan/Ptrogram-python/blob/master/perhitungan/nilai.py</b></li>
    <li>Buat Program Pembayaran Ecampus <b>https://github.com/akhmadaan/Ptrogram-python/blob/master/perhitungan/ecampus.py</b></li>
-   <li>Buat Program Kalkulator  <b>https://github.com/akhmadaan/Ptrogram-python/blob/master/perhitungan/kalkulator.py</b></li>
+   <li>SETELAH ITU KITA BUAT MASTER UNTUK MENJALANKAN PROGRAM YANG DI ATAS SEMUA. Untuk Shortcode silahkan anda akses link di bawah ini <b>https://github.com/akhmadaan/Ptrogram-python/blob/master/login.py</b></li>
+<p align="center">
    
 </ol>
 <hr/>
