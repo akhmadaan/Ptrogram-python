@@ -32,3 +32,8 @@ Flow Chart
 
 ## SEKIAN DARI SAYA TERIMAKASIH TELAH MENGUNJUNGI
 
+</ol>
+<hr/>
+## ME 
+<img src="https://github.com/akhmadaan/Ptrogram-python/blob/master/jpg/ME.png" width="100" height="100"/>
+</p>
