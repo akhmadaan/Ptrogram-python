@@ -15,12 +15,10 @@ Flow Chart
 ## Langkah-langkah Membuat Program Ini 
 <ol>
    <li>Buat Program Penggajian <b>https://github.com/akhmadaan/Ptrogram-python/blob/master/perhitungan/gaji.py</b> </li>
-   <li>Create <b>activity_main.xml</b></li>
-   <li>Edit <b>styles.xml</b></li>
-   <li>Create <b>MainActivity.java</b></li>
-   <li>Create <b>splashscreen.xml</b></li>
-   <li>Create <b>Splashscreen.java</b></li>
-    <li>Create <b>AndroidManifest.xml</b></li>
+   <li>Buat Program Penilaian <b>https://github.com/akhmadaan/Ptrogram-python/blob/master/perhitungan/nilai.py</b></li>
+   <li>Buat Program Pembayaran Ecampus <b>https://github.com/akhmadaan/Ptrogram-python/blob/master/perhitungan/ecampus.py</b></li>
+   <li>Buat Program Kalkulator  <b>https://github.com/akhmadaan/Ptrogram-python/blob/master/perhitungan/kalkulator.py</b></li>
+   
 </ol>
 <hr/>
 
